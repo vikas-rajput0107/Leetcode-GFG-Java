@@ -2,7 +2,7 @@ class Solution {
     public int reverse(int x) {
       long revNum = 0;
         while(x!=0){
-           int revDigit = x%10;
+            int revDigit = x%10;
             revNum= revNum * 10 +revDigit;
             x/=10;
         }
