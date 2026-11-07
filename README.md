@@ -61,3 +61,15 @@ Feel free to add more Java solutions, improve existing ones, or document edge ca
 ## License
 
 This repository is intended for learning and interview preparation purposes.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/vikas-rajput0107/Leetcode-GFG-Java/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/vikas-rajput0107/Leetcode-GFG-Java/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+<!---LeetCode Topics End-->
